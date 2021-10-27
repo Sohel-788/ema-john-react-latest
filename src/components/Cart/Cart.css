@@ -1,0 +1,8 @@
+.placeBtn{
+    background-color: #F0C14B;
+    padding: 6px 50px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,yellow,rgb(238, 117, 117));
+    cursor: pointer;
+    border:1px solid yellowgreen
+}
